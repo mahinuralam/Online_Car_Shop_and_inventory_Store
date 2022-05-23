@@ -1,0 +1,8 @@
+email:admin1@gmail.com
+pass: admin123
+
+email:admin2@gmail.com
+pass: admin123
+
+email:admin3@gmail.com
+pass: admin123
